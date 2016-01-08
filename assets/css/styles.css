@@ -51,9 +51,16 @@ a.home-btn:hover {
 }
 
 .intro {
-	margin-top: 15px;
 	padding: 10px;
 	padding-top: 0px;
+}
+
+img.mask {
+	width: 150px;
+	height: 150px;
+	-webkit-clip-path: circle(70px at 75px 75px); 
+	float: left;
+	margin-right: 15px;
 }
 
 .sidebar {
@@ -71,6 +78,18 @@ a.home-btn:hover {
 	background-color: #577FB0;
 	bottom: 0px;
 	margin-top: 50px;
+	text-align: center;
+	padding: 5px;
+}
+
+.footer a {
+	text-decoration: none;
+	color: black;
+}
+
+.footer a:hover {
+	text-decoration: none;
+	color: white;
 }
 
 .flexbox {
