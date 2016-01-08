@@ -1,0 +1,28 @@
+body {
+	background-color: #C58579;
+	font-family: 'Raleway', sans-serif !important;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Playfair Display', serif !important;
+}
+
+.index-head {
+	background-color: #5E272A;
+	color: #C58579;
+	height: 100px;
+	padding: 10px;
+}
+
+#index-drop {
+	padding-top:10px;
+	color: #C58579;
+}
+
+.photo-box {
+	width: 100%;
+	height: 400px;
+	background-image: url("../images/topography.jpeg");
+	background-size: cover;
+	clear: both;
+}
