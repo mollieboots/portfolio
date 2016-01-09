@@ -114,38 +114,38 @@ img.mask {
 }
 
 .flex-child1 {
-	background-image: url("assets/images/train.jpg");
+	background-image: url("../images/train.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 
 }
 
 .flex-child2 {
-	background-image: url("assets/images/wales.jpg");
+	background-image: url("../images/wales.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .flex-child3 {
-	background-image: url("assets/images/memorial.jpg");
+	background-image: url("../images/memorial.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .flex-child4 {
-	background-image: url("assets/images/bridge.jpg");
+	background-image: url("../images/bridge.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .flex-child5 {
-	background-image: url("assets/images/sandwich.jpg");
+	background-image: url("../images/sandwich.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .flex-child6 {
-	background-image: url("assets/images/beer.jpg");
+	background-image: url("../images/beer.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
